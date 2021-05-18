@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/Ss">
+        <file>menucalc.png</file>
+        <file>Newstart.gif</file>
+        <file>menunew.gif</file>
+        <file>calmenu.png</file>
+        <file>backgrc.gif</file>
+        <file>usloviyaback.gif</file>
+        <file>usloviya2.png</file>
+        <file>buttons.png</file>
+        <file>info.png</file>
+        <file>infoback.gif</file>
+        <file>buttonsdark.png</file>
+        <file>switchsun.png</file>
+        <file>switchnight.png</file>
+        <file>newcalc3.png</file>
+        <file>newcalc3dark.png</file>
+        <file>usloviyanew.png</file>
+        <file>usloviyanew2.png</file>
+        <file>usloviyanewdark.png</file>
+        <file>newcalc4DARK.png</file>
+        <file>infodark.png</file>
+        <file>Calcback2.gif</file>
+        <file>Usloviyaback1-1.gif</file>
+        <file>Infoback2.gif</file>
+        <file>Newstart2.gif</file>
+        <file>Usloviyaback2.gif</file>
+        <file>newcalc4DARK2.png</file>
+        <file>newcalc42.png</file>
+        <file>infodarkfixed.png</file>
+        <file>infofixed.png</file>
+    </qresource>
+</RCC>

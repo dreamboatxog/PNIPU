@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>usloviya</class>
+ <widget class="QDialog" name="usloviya">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1280</width>
+    <height>720</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1280</width>
+     <height>720</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/Ss/usloviyanew2.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1280</width>
+     <height>720</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>-10</x>
+     <y>-30</y>
+     <width>1300</width>
+     <height>800</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(31, 32, 93, 155);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>39</x>
+     <y>65</y>
+     <width>131</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+	color: rgba(255, 255, 255, 0);
+	background-color: rgba(85, 176, 255,60);
+  border: 3px rgb(31, 31, 31);
+ border-radius:30px;
+}
+QPushButton:hover:!pressed
+{
+	background-color: rgba(85, 176, 255,110);
+}
+
+QPushButton:pressed 
+{
+	
+	
+	
+	
+	background-color: rgba(143, 255, 251, 88);
+}
+</string>
+   </property>
+   <property name="text">
+    <string>PushButton</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>1108</x>
+     <y>65</y>
+     <width>131</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+	color: rgba(255, 255, 255, 0);
+	background-color: rgba(85, 176, 255,60);
+  border: 3px rgb(31, 31, 31);
+ border-radius:30px;
+}
+QPushButton:hover:!pressed
+{
+	background-color: rgba(85, 176, 255,110);
+}
+
+QPushButton:pressed 
+{
+	
+	
+	
+	
+	background-color: rgba(143, 255, 251, 88);
+}
+</string>
+   </property>
+   <property name="text">
+    <string>PushButton</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="dark">
+   <property name="geometry">
+    <rect>
+     <x>1120</x>
+     <y>570</y>
+     <width>111</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton
+{background-color: rgba(255, 255, 255, 111);
+background-image: url(:/Ss/switchnight.png);
+border-radius: 55px;
+}
+QPushButton:hover
+{
+	background-color: rgba(128, 214, 250,22);
+}</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <zorder>label_2</zorder>
+  <zorder>label_3</zorder>
+  <zorder>label</zorder>
+  <zorder>pushButton</zorder>
+  <zorder>pushButton_2</zorder>
+  <zorder>dark</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
