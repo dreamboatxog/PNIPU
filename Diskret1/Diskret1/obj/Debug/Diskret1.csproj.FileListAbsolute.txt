@@ -1,0 +1,7 @@
+C:\Users\79194\source\repos\Diskret1\Diskret1\obj\Debug\Diskret1.csprojAssemblyReference.cache
+C:\Users\79194\source\repos\Diskret1\Diskret1\obj\Debug\Diskret1.csproj.CoreCompileInputs.cache
+C:\Users\79194\source\repos\Diskret1\Diskret1\bin\Debug\Diskret1.exe.config
+C:\Users\79194\source\repos\Diskret1\Diskret1\bin\Debug\Diskret1.exe
+C:\Users\79194\source\repos\Diskret1\Diskret1\bin\Debug\Diskret1.pdb
+C:\Users\79194\source\repos\Diskret1\Diskret1\obj\Debug\Diskret1.exe
+C:\Users\79194\source\repos\Diskret1\Diskret1\obj\Debug\Diskret1.pdb
